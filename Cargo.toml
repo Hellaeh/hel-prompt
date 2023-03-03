@@ -1,7 +1,11 @@
 [package]
 name = "hel-prompt"
+authors = ["Hellaeh <me@hellaeh.com>"]
 version = "0.1.0"
 edition = "2021"
+description = "Simple prompt helper"
+license = "MIT"
+repository = "https://github.com/Hellaeh/hel-prompt.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
