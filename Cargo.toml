@@ -1,7 +1,7 @@
 [package]
 name = "hel-prompt"
 authors = ["Hellaeh <me@hellaeh.com>"]
-version = "0.1.1"
+version = "1.0.0"
 edition = "2021"
 description = "Simple prompt helper"
 license = "MIT"
